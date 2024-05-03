@@ -1,6 +1,6 @@
 {
-  "homepage": "https://omsabade1857.github.io/om_Portfolios",
-  "name": "my_portfolio",
+  "homepage": "https://github.com/omsabade1857/om_portfolios",
+  "name": "consitancy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,11 +16,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "echo 'Deployed!'"
   },
   "eslintConfig": {
     "extends": [
