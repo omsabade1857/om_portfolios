@@ -8,7 +8,7 @@ export const Projects = () => {
         {
             id: 1,
             src: Aarogyasathi,
-            title: "AarogyaSathi",
+            title: "AarogyaSathi_JAVA",
             description: "Aarogya Sathi, a Java-based medical portal, preserves patient records, schedules appointments, and enables diagnosis report downloads. Patients manage appointments and view medical history, while doctors analyze records for effective treatment. Admins oversee operations with a secure, responsive UI, featuring JWT authentication and role-based authorization",
             href: "https://githhttps://github.com/omsabade1857/AarogyaSathiFinal_Java"
         },
@@ -16,14 +16,14 @@ export const Projects = () => {
             id: 2,
             src: musify,
             title: "Musify",
-            description: "Spotify clone is a music streaming platform that helps you gain an advantage in the lucrative streaming industry. Our platform is designed to redefine the way you share and monetize your art, providing a dynamic space where your talent can truly flourish.",
+            description: "Musify is Spotify clone containing music streaming platform that helps you gain an advantage in the lucrative streaming industry. Our platform is designed to redefine the way you share and monetize your art, providing a dynamic space where your talent can truly flourish.",
             href:"https://github.com/omsabade1857/songpuzzle.github.io"
 
         },
         {
             id: 3,
             src: ArogyaSathiC,
-            title:"AarogyaSathi",
+            title:"AarogyaSathi_C#",
             description:"Aarogya Sathi streamlines healthcare by managing patient records, scheduling appointments, and accessing diagnostic reports. Patients easily book appointments and review records, while doctors analyze histories for personalized treatments. Admins ensure smooth operations via a React-based interface with secure authentication and role-based access controls",
             href:"https://github.com/omsabade1857/ArogyaSathiC.dotnet"
 
