@@ -1,6 +1,4 @@
 Welcome to my Profile 🙋🏻‍♂️
-![logo](https://github.com/omsabade1857/omsabade1857-/blob/Main/1702544607308.jpeg)
-
 <h1 align="center">Hi 👋, I'm Omkar Suresh Yelam </h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
