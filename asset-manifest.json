@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/om_portfolios/static/css/main.dc769a57.css",
-    "main.js": "/om_portfolios/static/js/main.5ce05285.js",
+    "main.js": "/om_portfolios/static/js/main.7f3fdb22.js",
     "static/media/connect_me.png": "/om_portfolios/static/media/connect_me.78aa962a60e9f12d0865.png",
-    "static/media/aarogyasathic.png": "/om_portfolios/static/media/aarogyasathic.886dc1480bf3621f21af.png",
     "static/media/my-image1.jpg": "/om_portfolios/static/media/my-image1.4e397434b68e06d6227b.jpg",
     "static/media/musify.jpg": "/om_portfolios/static/media/musify.8fc2b27413137d7a1b39.jpg",
+    "static/media/food.jpg": "/om_portfolios/static/media/food.9d61d1ef09bb6cce5c33.jpg",
     "static/media/gfg_logo.png": "/om_portfolios/static/media/gfg_logo.61f2c0a77f5b354b9efd.png",
     "static/media/aarogyasathi.png": "/om_portfolios/static/media/aarogyasathi.d34135056c688a4c132b.png",
     "static/media/aspNet.svg": "/om_portfolios/static/media/aspNet.9b979ea04912e7c5dd8e9eadd4ee6b2e.svg",
@@ -22,10 +22,10 @@
     "static/media/spring.svg": "/om_portfolios/static/media/spring.b701f1fccafd97e059e99fbcac91d203.svg",
     "index.html": "/om_portfolios/index.html",
     "main.dc769a57.css.map": "/om_portfolios/static/css/main.dc769a57.css.map",
-    "main.5ce05285.js.map": "/om_portfolios/static/js/main.5ce05285.js.map"
+    "main.7f3fdb22.js.map": "/om_portfolios/static/js/main.7f3fdb22.js.map"
   },
   "entrypoints": [
     "static/css/main.dc769a57.css",
-    "static/js/main.5ce05285.js"
+    "static/js/main.7f3fdb22.js"
   ]
 }
