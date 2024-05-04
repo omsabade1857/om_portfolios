@@ -10,7 +10,7 @@ const Home = () => {
           <h2 className='text-4xl sm:text-6xl font-bold text-white'>Hi, I am Omkar Yelam.</h2>
           <p className='text-gray-500 py-4 max-w-md'>Aspiring Full Stack Engineer Seeking to Create Innovative Solutions..!!</p>
           <div>
-            <a href='/Omkar_Resume.pdf' download className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
+            <a href='/path/to/Omkar_Resume.pdf' download='Omkar_Resume.pdf' className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
               Portfolio
               <span className='group-hover:rotate-90 duration-300'><HiArrowNarrowRight size={20} className='ml-1'/></span>
             </a>

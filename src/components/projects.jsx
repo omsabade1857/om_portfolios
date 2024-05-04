@@ -2,15 +2,17 @@ import React from 'react'
 import {FaGithub} from 'react-icons/fa';
 import Aarogyasathi from '../assets/Projects/aarogyasathi.png';
 import musify from '../assets/Projects/musify.jpg';
-import ArogyaSathiC from '../assets/Projects/aarogyasathic.png';
+import foodDelivery from '../assets/Projects/food.jpg';
+
+
 export const Projects = () => {
     const projects = [
         {
             id: 1,
             src: Aarogyasathi,
-            title: "AarogyaSathi_JAVA",
+            title: "AarogyaSathi",
             description: "Aarogya Sathi, a Java-based medical portal, preserves patient records, schedules appointments, and enables diagnosis report downloads. Patients manage appointments and view medical history, while doctors analyze records for effective treatment. Admins oversee operations with a secure, responsive UI, featuring JWT authentication and role-based authorization",
-            href: "https://githhttps://github.com/omsabade1857/AarogyaSathiFinal_Java"
+            href: "https://github.com/omsabade1857/AarogyaSathiFinal_Java"
         },
         {
             id: 2,
@@ -22,10 +24,10 @@ export const Projects = () => {
         },
         {
             id: 3,
-            src: ArogyaSathiC,
-            title:"AarogyaSathi_C#",
-            description:"Aarogya Sathi streamlines healthcare by managing patient records, scheduling appointments, and accessing diagnostic reports. Patients easily book appointments and review records, while doctors analyze histories for personalized treatments. Admins ensure smooth operations via a React-based interface with secure authentication and role-based access controls",
-            href:"https://github.com/omsabade1857/ArogyaSathiC.dotnet"
+            src: foodDelivery,
+            title:"Farm fresh",
+            description:"Step into our Food Delivery web app repository, your go-to solution for grocery shopping convenience whether you're at home, work, or hostel. Explore fresh produce from Farm Fresh and place orders hassle-free. Enjoy additional features such as personalized recommendations, order tracking, and secure payment options for an enhanced shopping experience.",
+            href:"https://github.com/omsabade1857/FoodDelivery-web"
 
         }
     ]
