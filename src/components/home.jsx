@@ -42,7 +42,7 @@ const Home = () => {
           <h2 className='text-4xl sm:text-6xl font-bold text-white'>Hi, I am Omkar Yelam.</h2>
           <p className='text-gray-500 py-4 max-w-md'>Aspiring Full Stack Engineer Seeking to Create Innovative Solutions..!!</p>
           <div>
-            <button onClick={playAudio} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
+            <button onClick={() => {playAudio(); downloadResume();}} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
               Portfolio 
               <span className='ml-2'>
                 {toggleMusicIcon()}

@@ -1,17 +1,16 @@
 @keyframes heartbeat {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-      color:rgb(217, 161, 208);
-    }
+  0% {
+    transform: scale(1);
   }
-  
-  .heartbeat {
-    animation: heartbeat 1s infinite;
+  50% {
+    transform: scale(1.1);
   }
-  
+  100% {
+    transform: scale(1);
+    color:rgb(217, 161, 208);
+  }
+}
+
+.heartbeat {
+  animation: heartbeat 1s infinite;
+}
