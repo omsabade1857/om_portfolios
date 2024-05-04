@@ -9,7 +9,7 @@ export const About = () => {
                 </div>
                 <div className='text-md text-justify mt-10'>
                     <p>
-                        I am an enthusiastic and dedicated student with a strong passion for software engineering. I take great pride in my exceptional academic track record. As a CDAC science student, I have consistently excelled in my coursework, maintaining a high GPA and earning recognition for academic achievements. My commitment to learning and my ability to grasp complex concepts have been key factors in my academic success.
+                        I am an enthusiastic and dedicated student with a strong passion for software engineering. I take great pride in my exceptional academic track record. As a CDAC student, I have consistently excelled in my coursework, maintaining a high GPA and earning recognition for academic achievements. My commitment to learning and my ability to grasp complex concepts have been key factors in my academic success.
                     </p>
 
                     <p className='mt-5'>
