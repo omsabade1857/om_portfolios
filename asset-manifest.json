@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/om_portfolios/static/css/main.fe893800.css",
-    "main.js": "/om_portfolios/static/js/main.6a5fec65.js",
+    "main.css": "/om_portfolios/static/css/main.710cfa52.css",
+    "main.js": "/om_portfolios/static/js/main.f575895e.js",
     "static/media/perfect-beauty-1407.mp3": "/om_portfolios/static/media/perfect-beauty-1407.9ffe197c408efe406a19.mp3",
     "static/media/connect_me.png": "/om_portfolios/static/media/connect_me.78aa962a60e9f12d0865.png",
     "static/media/my-image1.jpg": "/om_portfolios/static/media/my-image1.4e397434b68e06d6227b.jpg",
@@ -22,11 +22,11 @@
     "static/media/react.svg": "/om_portfolios/static/media/react.a060cbe85e50deda1d61452cee9de5b2.svg",
     "static/media/spring.svg": "/om_portfolios/static/media/spring.b701f1fccafd97e059e99fbcac91d203.svg",
     "index.html": "/om_portfolios/index.html",
-    "main.fe893800.css.map": "/om_portfolios/static/css/main.fe893800.css.map",
-    "main.6a5fec65.js.map": "/om_portfolios/static/js/main.6a5fec65.js.map"
+    "main.710cfa52.css.map": "/om_portfolios/static/css/main.710cfa52.css.map",
+    "main.f575895e.js.map": "/om_portfolios/static/js/main.f575895e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe893800.css",
-    "static/js/main.6a5fec65.js"
+    "static/css/main.710cfa52.css",
+    "static/js/main.f575895e.js"
   ]
 }
