@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/om_portfolios/static/css/main.dc769a57.css",
-    "main.js": "/om_portfolios/static/js/main.7f3fdb22.js",
+    "main.css": "/om_portfolios/static/css/main.ca2576a5.css",
+    "main.js": "/om_portfolios/static/js/main.a5fb0efd.js",
+    "static/media/perfect-beauty-1407.mp3": "/om_portfolios/static/media/perfect-beauty-1407.9ffe197c408efe406a19.mp3",
     "static/media/connect_me.png": "/om_portfolios/static/media/connect_me.78aa962a60e9f12d0865.png",
     "static/media/my-image1.jpg": "/om_portfolios/static/media/my-image1.4e397434b68e06d6227b.jpg",
     "static/media/musify.jpg": "/om_portfolios/static/media/musify.8fc2b27413137d7a1b39.jpg",
@@ -21,11 +22,11 @@
     "static/media/react.svg": "/om_portfolios/static/media/react.a060cbe85e50deda1d61452cee9de5b2.svg",
     "static/media/spring.svg": "/om_portfolios/static/media/spring.b701f1fccafd97e059e99fbcac91d203.svg",
     "index.html": "/om_portfolios/index.html",
-    "main.dc769a57.css.map": "/om_portfolios/static/css/main.dc769a57.css.map",
-    "main.7f3fdb22.js.map": "/om_portfolios/static/js/main.7f3fdb22.js.map"
+    "main.ca2576a5.css.map": "/om_portfolios/static/css/main.ca2576a5.css.map",
+    "main.a5fb0efd.js.map": "/om_portfolios/static/js/main.a5fb0efd.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc769a57.css",
-    "static/js/main.7f3fdb22.js"
+    "static/css/main.ca2576a5.css",
+    "static/js/main.a5fb0efd.js"
   ]
 }
