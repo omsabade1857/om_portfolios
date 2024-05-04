@@ -13,7 +13,7 @@ export const About = () => {
                     </p>
 
                     <p className='mt-5'>
-                        Proficient in a range of programming languages, including Java, C++, C#, and JavaScript, I am well-versed in data structures, algorithms, and problem-solving. I also have hands-on experience with web development technologies such as Spring, SpringBoot, Hibernate, and ASP.NET. Additionally, I am familiar with Docker, Kubernetes, Git, and database management systems like MySQL, Oracle, PL/SQL, and MongoDB, which I'm eager to apply in real-world projects. I've applied my knowledge and skills to create various software projects, showcasing not only my technical skills but also my ability to work in collaborative teams and adapt to new challenges.
+                        Proficient in a range of programming languages including Java, C++, C#, and JavaScript, I am well-versed in data structures, algorithms, and problem-solving. I also have hands-on experience with web development technologies such as Spring, SpringBoot, Hibernate, and ASP.NET. Additionally, I am familiar with Docker, Kubernetes, Git, and database management systems like MySQL, Oracle, PL/SQL, and MongoDB, which I'm eager to apply in real-world projects. I've applied my knowledge and skills to create various software projects, showcasing not only my technical skills but also my ability to work in collaborative teams and adapt to new challenges.
                     </p>
                     
                     <p className='mt-5'>

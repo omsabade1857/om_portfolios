@@ -25,7 +25,7 @@ export const Projects = () => {
         {
             id: 3,
             src: foodDelivery,
-            title:"Farm fresh",
+            title:"FarmFresh",
             description:"Step into our Food Delivery web app repository, your go-to solution for grocery shopping convenience whether you're at home, work, or hostel. Explore fresh produce from Farm Fresh and place orders hassle-free. Enjoy additional features such as personalized recommendations, order tracking, and secure payment options for an enhanced shopping experience.",
             href:"https://github.com/omsabade1857/FoodDelivery-web"
 
