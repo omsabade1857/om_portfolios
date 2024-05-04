@@ -16,7 +16,7 @@ const Home = () => {
       setMusicPlaying(false);
     } else {
       audio.loop = true;
-      audio.volume = 0.25;
+      audio.volume = 0.45;
       audio.play().catch(error => {
         console.error('Autoplay failed:', error.message);
       });
