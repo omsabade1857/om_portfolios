@@ -30,7 +30,7 @@ const Home = () => {
 
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/public/Omkar_Resume.pdf';
+    link.href = 'Omkar_Resume.pdf';
     link.download = 'Omkar_Resume.pdf';
     link.click();
   };
