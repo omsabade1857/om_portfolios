@@ -30,7 +30,7 @@ const Home = () => {
 
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = 'Omkar_Resume.pdf';
+    link.href = 'https://omsabade1857.github.io/om_portfolios/Omkar_Resume.pdf';
     link.download = 'Omkar_Resume.pdf';
     link.click();
   };
